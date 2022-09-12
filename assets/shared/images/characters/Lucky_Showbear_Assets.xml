@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Lucky_Showbear_Assets.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Bon Down Note0000" x="0" y="0" width="261" height="488" frameX="0" frameY="-3" frameWidth="261" frameHeight="491"/>
+	<SubTexture name="Bon Down Note0001" x="0" y="0" width="261" height="488" frameX="0" frameY="-3" frameWidth="261" frameHeight="491"/>
+	<SubTexture name="Bon Down Note0002" x="261" y="0" width="261" height="491"/>
+	<SubTexture name="Bon Down Note0003" x="261" y="0" width="261" height="491"/>
+	<SubTexture name="Bon Down Note0004" x="261" y="0" width="261" height="491"/>
+	<SubTexture name="Bon Down Note0005" x="261" y="0" width="261" height="491"/>
+	<SubTexture name="Bon Down Note0006" x="261" y="0" width="261" height="491"/>
+	<SubTexture name="Bon Down Note0007" x="261" y="0" width="261" height="491"/>
+	<SubTexture name="Bon Down Note0008" x="261" y="0" width="261" height="491"/>
+	<SubTexture name="Bon Down Note0009" x="261" y="0" width="261" height="491"/>
+	<SubTexture name="Bon Down Note0010" x="261" y="0" width="261" height="491"/>
+	<SubTexture name="Bon Down Note0011" x="261" y="0" width="261" height="491"/>
+	<SubTexture name="Bon Down Note0012" x="261" y="0" width="261" height="491"/>
+	<SubTexture name="Bon Down Note0013" x="261" y="0" width="261" height="491"/>
+	<SubTexture name="Bon Down Note0014" x="261" y="0" width="261" height="491"/>
+	<SubTexture name="Bon Down Note0015" x="261" y="0" width="261" height="491"/>
+	<SubTexture name="Bon Down Note0016" x="261" y="0" width="261" height="491"/>
+	<SubTexture name="Bon Idle Dance0000" x="522" y="0" width="268" height="493" frameX="0" frameY="-5" frameWidth="268" frameHeight="498"/>
+	<SubTexture name="Bon Idle Dance0001" x="522" y="0" width="268" height="493" frameX="0" frameY="-5" frameWidth="268" frameHeight="498"/>
+	<SubTexture name="Bon Idle Dance0002" x="790" y="0" width="263" height="495" frameX="-2" frameY="-3" frameWidth="268" frameHeight="498"/>
+	<SubTexture name="Bon Idle Dance0003" x="790" y="0" width="263" height="495" frameX="-2" frameY="-3" frameWidth="268" frameHeight="498"/>
+	<SubTexture name="Bon Idle Dance0004" x="1053" y="0" width="260" height="496" frameX="-3" frameY="-2" frameWidth="268" frameHeight="498"/>
+	<SubTexture name="Bon Idle Dance0005" x="1053" y="0" width="260" height="496" frameX="-3" frameY="-2" frameWidth="268" frameHeight="498"/>
+	<SubTexture name="Bon Idle Dance0006" x="1313" y="0" width="259" height="498" frameX="-4" frameY="0" frameWidth="268" frameHeight="498"/>
+	<SubTexture name="Bon Idle Dance0007" x="1313" y="0" width="259" height="498" frameX="-4" frameY="0" frameWidth="268" frameHeight="498"/>
+	<SubTexture name="Bon Idle Dance0008" x="1313" y="0" width="259" height="498" frameX="-4" frameY="0" frameWidth="268" frameHeight="498"/>
+	<SubTexture name="Bon Idle Dance0009" x="1313" y="0" width="259" height="498" frameX="-4" frameY="0" frameWidth="268" frameHeight="498"/>
+	<SubTexture name="Bon Idle Dance0010" x="1313" y="0" width="259" height="498" frameX="-4" frameY="0" frameWidth="268" frameHeight="498"/>
+	<SubTexture name="Bon Idle Dance0011" x="1313" y="0" width="259" height="498" frameX="-4" frameY="0" frameWidth="268" frameHeight="498"/>
+	<SubTexture name="Bon Idle Dance0012" x="1313" y="0" width="259" height="498" frameX="-4" frameY="0" frameWidth="268" frameHeight="498"/>
+	<SubTexture name="Bon Idle Dance0013" x="1313" y="0" width="259" height="498" frameX="-4" frameY="0" frameWidth="268" frameHeight="498"/>
+	<SubTexture name="Bon NOTE LEFT0000" x="1572" y="0" width="277" height="502"/>
+	<SubTexture name="Bon NOTE LEFT0001" x="1572" y="0" width="277" height="502"/>
+	<SubTexture name="Bon NOTE LEFT0002" x="0" y="502" width="271" height="502" frameX="-4" frameY="0" frameWidth="277" frameHeight="502"/>
+	<SubTexture name="Bon NOTE LEFT0003" x="0" y="502" width="271" height="502" frameX="-4" frameY="0" frameWidth="277" frameHeight="502"/>
+	<SubTexture name="Bon NOTE LEFT0004" x="0" y="502" width="271" height="502" frameX="-4" frameY="0" frameWidth="277" frameHeight="502"/>
+	<SubTexture name="Bon NOTE LEFT0005" x="0" y="502" width="271" height="502" frameX="-4" frameY="0" frameWidth="277" frameHeight="502"/>
+	<SubTexture name="Bon NOTE LEFT0006" x="0" y="502" width="271" height="502" frameX="-4" frameY="0" frameWidth="277" frameHeight="502"/>
+	<SubTexture name="Bon NOTE LEFT0007" x="0" y="502" width="271" height="502" frameX="-4" frameY="0" frameWidth="277" frameHeight="502"/>
+	<SubTexture name="Bon NOTE LEFT0008" x="0" y="502" width="271" height="502" frameX="-4" frameY="0" frameWidth="277" frameHeight="502"/>
+	<SubTexture name="Bon NOTE LEFT0009" x="0" y="502" width="271" height="502" frameX="-4" frameY="0" frameWidth="277" frameHeight="502"/>
+	<SubTexture name="Bon NOTE LEFT0010" x="0" y="502" width="271" height="502" frameX="-4" frameY="0" frameWidth="277" frameHeight="502"/>
+	<SubTexture name="Bon NOTE LEFT0011" x="0" y="502" width="271" height="502" frameX="-4" frameY="0" frameWidth="277" frameHeight="502"/>
+	<SubTexture name="Bon NOTE LEFT0012" x="0" y="502" width="271" height="502" frameX="-4" frameY="0" frameWidth="277" frameHeight="502"/>
+	<SubTexture name="Bon NOTE LEFT0013" x="0" y="502" width="271" height="502" frameX="-4" frameY="0" frameWidth="277" frameHeight="502"/>
+	<SubTexture name="Bon NOTE LEFT0014" x="0" y="502" width="271" height="502" frameX="-4" frameY="0" frameWidth="277" frameHeight="502"/>
+	<SubTexture name="Bon NOTE LEFT0015" x="0" y="502" width="271" height="502" frameX="-4" frameY="0" frameWidth="277" frameHeight="502"/>
+	<SubTexture name="Bon NOTE LEFT0016" x="0" y="502" width="271" height="502" frameX="-4" frameY="0" frameWidth="277" frameHeight="502"/>
+	<SubTexture name="Bon NOTE RIGHT0000" x="271" y="502" width="272" height="502"/>
+	<SubTexture name="Bon NOTE RIGHT0001" x="271" y="502" width="272" height="502"/>
+	<SubTexture name="Bon NOTE RIGHT0002" x="543" y="502" width="263" height="502" frameX="-2" frameY="0" frameWidth="272" frameHeight="502"/>
+	<SubTexture name="Bon NOTE RIGHT0003" x="543" y="502" width="263" height="502" frameX="-2" frameY="0" frameWidth="272" frameHeight="502"/>
+	<SubTexture name="Bon NOTE RIGHT0004" x="543" y="502" width="263" height="502" frameX="-2" frameY="0" frameWidth="272" frameHeight="502"/>
+	<SubTexture name="Bon NOTE RIGHT0005" x="543" y="502" width="263" height="502" frameX="-2" frameY="0" frameWidth="272" frameHeight="502"/>
+	<SubTexture name="Bon NOTE RIGHT0006" x="543" y="502" width="263" height="502" frameX="-2" frameY="0" frameWidth="272" frameHeight="502"/>
+	<SubTexture name="Bon NOTE RIGHT0007" x="543" y="502" width="263" height="502" frameX="-2" frameY="0" frameWidth="272" frameHeight="502"/>
+	<SubTexture name="Bon NOTE RIGHT0008" x="543" y="502" width="263" height="502" frameX="-2" frameY="0" frameWidth="272" frameHeight="502"/>
+	<SubTexture name="Bon NOTE RIGHT0009" x="543" y="502" width="263" height="502" frameX="-2" frameY="0" frameWidth="272" frameHeight="502"/>
+	<SubTexture name="Bon NOTE RIGHT0010" x="543" y="502" width="263" height="502" frameX="-2" frameY="0" frameWidth="272" frameHeight="502"/>
+	<SubTexture name="Bon NOTE RIGHT0011" x="543" y="502" width="263" height="502" frameX="-2" frameY="0" frameWidth="272" frameHeight="502"/>
+	<SubTexture name="Bon NOTE RIGHT0012" x="543" y="502" width="263" height="502" frameX="-2" frameY="0" frameWidth="272" frameHeight="502"/>
+	<SubTexture name="Bon NOTE RIGHT0013" x="543" y="502" width="263" height="502" frameX="-2" frameY="0" frameWidth="272" frameHeight="502"/>
+	<SubTexture name="Bon NOTE RIGHT0014" x="543" y="502" width="263" height="502" frameX="-2" frameY="0" frameWidth="272" frameHeight="502"/>
+	<SubTexture name="Bon NOTE RIGHT0015" x="543" y="502" width="263" height="502" frameX="-2" frameY="0" frameWidth="272" frameHeight="502"/>
+	<SubTexture name="Bon Up note0000" x="806" y="502" width="261" height="504"/>
+	<SubTexture name="Bon Up note0001" x="806" y="502" width="261" height="504"/>
+	<SubTexture name="Bon Up note0002" x="1067" y="502" width="261" height="502" frameX="0" frameY="-2" frameWidth="261" frameHeight="504"/>
+	<SubTexture name="Bon Up note0003" x="1067" y="502" width="261" height="502" frameX="0" frameY="-2" frameWidth="261" frameHeight="504"/>
+	<SubTexture name="Bon Up note0004" x="1067" y="502" width="261" height="502" frameX="0" frameY="-2" frameWidth="261" frameHeight="504"/>
+	<SubTexture name="Bon Up note0005" x="1067" y="502" width="261" height="502" frameX="0" frameY="-2" frameWidth="261" frameHeight="504"/>
+	<SubTexture name="Bon Up note0006" x="1067" y="502" width="261" height="502" frameX="0" frameY="-2" frameWidth="261" frameHeight="504"/>
+	<SubTexture name="Bon Up note0007" x="1067" y="502" width="261" height="502" frameX="0" frameY="-2" frameWidth="261" frameHeight="504"/>
+	<SubTexture name="Bon Up note0008" x="1067" y="502" width="261" height="502" frameX="0" frameY="-2" frameWidth="261" frameHeight="504"/>
+	<SubTexture name="Bon Up note0009" x="1067" y="502" width="261" height="502" frameX="0" frameY="-2" frameWidth="261" frameHeight="504"/>
+	<SubTexture name="Bon Up note0010" x="1067" y="502" width="261" height="502" frameX="0" frameY="-2" frameWidth="261" frameHeight="504"/>
+	<SubTexture name="Bon Up note0011" x="1067" y="502" width="261" height="502" frameX="0" frameY="-2" frameWidth="261" frameHeight="504"/>
+	<SubTexture name="Bon Up note0012" x="1067" y="502" width="261" height="502" frameX="0" frameY="-2" frameWidth="261" frameHeight="504"/>
+	<SubTexture name="Bon Up note0013" x="1067" y="502" width="261" height="502" frameX="0" frameY="-2" frameWidth="261" frameHeight="504"/>
+	<SubTexture name="Bon Up note0014" x="1067" y="502" width="261" height="502" frameX="0" frameY="-2" frameWidth="261" frameHeight="504"/>
+	<SubTexture name="Bon Up note0015" x="1067" y="502" width="261" height="502" frameX="0" frameY="-2" frameWidth="261" frameHeight="504"/>
+	<SubTexture name="Bon Up note0016" x="1067" y="502" width="261" height="502" frameX="0" frameY="-2" frameWidth="261" frameHeight="504"/>
+</TextureAtlas>
