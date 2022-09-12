@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Bon_TS_assets.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Bon Idle Dance0000" x="0" y="0" width="1464" height="806"/>
+	<SubTexture name="Bon Idle Dance0001" x="0" y="0" width="1464" height="806"/>
+	<SubTexture name="Bon Idle Dance0002" x="1464" y="0" width="1464" height="806"/>
+	<SubTexture name="Bon Idle Dance0003" x="1464" y="0" width="1464" height="806"/>
+	<SubTexture name="Bon Idle Dance0004" x="0" y="806" width="1464" height="806"/>
+	<SubTexture name="Bon Idle Dance0005" x="0" y="806" width="1464" height="806"/>
+	<SubTexture name="Bon Idle Dance0006" x="0" y="806" width="1464" height="806"/>
+	<SubTexture name="Bon Idle Dance0007" x="0" y="806" width="1464" height="806"/>
+	<SubTexture name="Bon Idle Dance0008" x="0" y="806" width="1464" height="806"/>
+	<SubTexture name="Bon Idle Dance0009" x="0" y="806" width="1464" height="806"/>
+	<SubTexture name="Bon Idle Dance0010" x="0" y="806" width="1464" height="806"/>
+	<SubTexture name="Bon Idle Dance0011" x="0" y="806" width="1464" height="806"/>
+	<SubTexture name="Bon Idle Dance0012" x="0" y="806" width="1464" height="806"/>
+	<SubTexture name="Bon Idle Dance0013" x="0" y="806" width="1464" height="806"/>
+</TextureAtlas>

@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Bon_Spin_FNF_assets.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bf bon alt down0000" x="0" y="0" width="396" height="617"/>
+	<SubTexture name="bf bon alt down0001" x="396" y="0" width="396" height="617"/>
+	<SubTexture name="bf bon alt down0002" x="792" y="0" width="396" height="617"/>
+	<SubTexture name="bf bon alt down0003" x="1188" y="0" width="396" height="617"/>
+	<SubTexture name="bf bon alt down0004" x="1584" y="0" width="396" height="617"/>
+	<SubTexture name="bf bon alt down0005" x="1980" y="0" width="396" height="617"/>
+	<SubTexture name="bf bon alt down0006" x="2376" y="0" width="396" height="617"/>
+	<SubTexture name="bf bon alt down0007" x="2772" y="0" width="396" height="617"/>
+	<SubTexture name="bf bon alt down0008" x="3168" y="0" width="396" height="617"/>
+	<SubTexture name="bf bon alt down0009" x="3564" y="0" width="396" height="617"/>
+	<SubTexture name="bf bon alt down0010" x="3960" y="0" width="396" height="617"/>
+	<SubTexture name="bf bon alt down0011" x="4356" y="0" width="396" height="617"/>
+	<SubTexture name="bf bon alt down0012" x="4752" y="0" width="396" height="617"/>
+	<SubTexture name="bf bon alt down0013" x="5148" y="0" width="396" height="617"/>
+	<SubTexture name="bf bon alt left0000" x="5544" y="0" width="347" height="617"/>
+	<SubTexture name="bf bon alt left0001" x="5891" y="0" width="347" height="617"/>
+	<SubTexture name="bf bon alt left0002" x="6238" y="0" width="347" height="617"/>
+	<SubTexture name="bf bon alt left0003" x="6585" y="0" width="347" height="617"/>
+	<SubTexture name="bf bon alt left0004" x="6932" y="0" width="347" height="617"/>
+	<SubTexture name="bf bon alt left0005" x="7279" y="0" width="347" height="617"/>
+	<SubTexture name="bf bon alt left0006" x="7626" y="0" width="347" height="617"/>
+	<SubTexture name="bf bon alt left0007" x="0" y="617" width="347" height="617"/>
+	<SubTexture name="bf bon alt left0008" x="347" y="617" width="347" height="617"/>
+	<SubTexture name="bf bon alt left0009" x="694" y="617" width="347" height="617"/>
+	<SubTexture name="bf bon alt left0010" x="1041" y="617" width="347" height="617"/>
+	<SubTexture name="bf bon alt left0011" x="1388" y="617" width="347" height="617"/>
+	<SubTexture name="bf bon alt left0012" x="1735" y="617" width="347" height="617"/>
+	<SubTexture name="bf bon alt left0013" x="2082" y="617" width="347" height="617"/>
+	<SubTexture name="bf bon alt right0000" x="2429" y="617" width="347" height="617"/>
+	<SubTexture name="bf bon alt right0001" x="2776" y="617" width="347" height="617"/>
+	<SubTexture name="bf bon alt right0002" x="3123" y="617" width="347" height="617"/>
+	<SubTexture name="bf bon alt right0003" x="3470" y="617" width="347" height="617"/>
+	<SubTexture name="bf bon alt right0004" x="3817" y="617" width="347" height="617"/>
+	<SubTexture name="bf bon alt right0005" x="4164" y="617" width="347" height="617"/>
+	<SubTexture name="bf bon alt right0006" x="4511" y="617" width="347" height="617"/>
+	<SubTexture name="bf bon alt right0007" x="4858" y="617" width="347" height="617"/>
+	<SubTexture name="bf bon alt right0008" x="5205" y="617" width="347" height="617"/>
+	<SubTexture name="bf bon alt right0009" x="5552" y="617" width="347" height="617"/>
+	<SubTexture name="bf bon alt right0010" x="5899" y="617" width="347" height="617"/>
+	<SubTexture name="bf bon alt right0011" x="6246" y="617" width="347" height="617"/>
+	<SubTexture name="bf bon alt right0012" x="6593" y="617" width="347" height="617"/>
+	<SubTexture name="bf bon alt right0013" x="6940" y="617" width="347" height="617"/>
+	<SubTexture name="bf bon alt up0000" x="7287" y="617" width="396" height="617"/>
+	<SubTexture name="bf bon alt up0001" x="7683" y="617" width="396" height="617"/>
+	<SubTexture name="bf bon alt up0002" x="0" y="1234" width="396" height="617"/>
+	<SubTexture name="bf bon alt up0003" x="396" y="1234" width="396" height="617"/>
+	<SubTexture name="bf bon alt up0004" x="792" y="1234" width="396" height="617"/>
+	<SubTexture name="bf bon alt up0005" x="1188" y="1234" width="396" height="617"/>
+	<SubTexture name="bf bon alt up0006" x="1584" y="1234" width="396" height="617"/>
+	<SubTexture name="bf bon alt up0007" x="1980" y="1234" width="396" height="617"/>
+	<SubTexture name="bf bon alt up0008" x="2376" y="1234" width="396" height="617"/>
+	<SubTexture name="bf bon alt up0009" x="2772" y="1234" width="396" height="617"/>
+	<SubTexture name="bf bon alt up0010" x="3168" y="1234" width="396" height="617"/>
+	<SubTexture name="bf bon alt up0011" x="3564" y="1234" width="396" height="617"/>
+	<SubTexture name="bf bon alt up0012" x="3960" y="1234" width="396" height="617"/>
+	<SubTexture name="bf bon alt up0013" x="4356" y="1234" width="396" height="617"/>
+	<SubTexture name="bf bon down0000" x="4752" y="1234" width="396" height="466" frameX="0" frameY="-36" frameWidth="396" frameHeight="503"/>
+	<SubTexture name="bf bon down0001" x="5148" y="1234" width="396" height="466" frameX="0" frameY="-36" frameWidth="396" frameHeight="503"/>
+	<SubTexture name="bf bon down0002" x="5544" y="1234" width="396" height="503"/>
+	<SubTexture name="bf bon down0003" x="5940" y="1234" width="396" height="503"/>
+	<SubTexture name="bf bon down0004" x="6336" y="1234" width="396" height="503"/>
+	<SubTexture name="bf bon down0005" x="6732" y="1234" width="396" height="503"/>
+	<SubTexture name="bf bon down0006" x="7128" y="1234" width="396" height="503"/>
+	<SubTexture name="bf bon down0007" x="7524" y="1234" width="396" height="503"/>
+	<SubTexture name="bf bon down0008" x="0" y="1851" width="396" height="503"/>
+	<SubTexture name="bf bon down0009" x="396" y="1851" width="396" height="503"/>
+	<SubTexture name="bf bon down0010" x="792" y="1851" width="396" height="503"/>
+	<SubTexture name="bf bon down0011" x="1188" y="1851" width="396" height="503"/>
+	<SubTexture name="bf bon down0012" x="1584" y="1851" width="396" height="503"/>
+	<SubTexture name="bf bon down0013" x="1980" y="1851" width="396" height="503"/>
+	<SubTexture name="bf bon down miss0000" x="2376" y="1851" width="396" height="466" frameX="0" frameY="-36" frameWidth="396" frameHeight="503"/>
+	<SubTexture name="bf bon down miss0001" x="2772" y="1851" width="396" height="466" frameX="0" frameY="-36" frameWidth="396" frameHeight="503"/>
+	<SubTexture name="bf bon down miss0002" x="3168" y="1851" width="396" height="503"/>
+	<SubTexture name="bf bon down miss0003" x="3564" y="1851" width="396" height="503"/>
+	<SubTexture name="bf bon down miss0004" x="3960" y="1851" width="396" height="503"/>
+	<SubTexture name="bf bon down miss0005" x="4356" y="1851" width="396" height="503"/>
+	<SubTexture name="bf bon down miss0006" x="4752" y="1851" width="396" height="503"/>
+	<SubTexture name="bf bon down miss0007" x="5148" y="1851" width="396" height="503"/>
+	<SubTexture name="bf bon down miss0008" x="5544" y="1851" width="396" height="503"/>
+	<SubTexture name="bf bon down miss0009" x="5940" y="1851" width="396" height="503"/>
+	<SubTexture name="bf bon down miss0010" x="6336" y="1851" width="396" height="503"/>
+	<SubTexture name="bf bon down miss0011" x="6732" y="1851" width="396" height="503"/>
+	<SubTexture name="bf bon down miss0012" x="7128" y="1851" width="396" height="503"/>
+	<SubTexture name="bf bon down miss0013" x="7524" y="1851" width="396" height="503"/>
+	<SubTexture name="bf bon idle0000" x="0" y="2354" width="449" height="584" frameX="0" frameY="-33" frameWidth="449" frameHeight="617"/>
+	<SubTexture name="bf bon idle0001" x="449" y="2354" width="449" height="584" frameX="0" frameY="-33" frameWidth="449" frameHeight="617"/>
+	<SubTexture name="bf bon idle0002" x="898" y="2354" width="449" height="584" frameX="0" frameY="-33" frameWidth="449" frameHeight="617"/>
+	<SubTexture name="bf bon idle0003" x="1347" y="2354" width="412" height="607" frameX="-18" frameY="-10" frameWidth="449" frameHeight="617"/>
+	<SubTexture name="bf bon idle0004" x="1759" y="2354" width="412" height="607" frameX="-18" frameY="-10" frameWidth="449" frameHeight="617"/>
+	<SubTexture name="bf bon idle0005" x="2171" y="2354" width="412" height="607" frameX="-18" frameY="-10" frameWidth="449" frameHeight="617"/>
+	<SubTexture name="bf bon idle0006" x="2583" y="2354" width="398" height="616" frameX="-25" frameY="-1" frameWidth="449" frameHeight="617"/>
+	<SubTexture name="bf bon idle0007" x="2981" y="2354" width="398" height="616" frameX="-25" frameY="-1" frameWidth="449" frameHeight="617"/>
+	<SubTexture name="bf bon idle0008" x="3379" y="2354" width="398" height="616" frameX="-25" frameY="-1" frameWidth="449" frameHeight="617"/>
+	<SubTexture name="bf bon idle0009" x="3777" y="2354" width="397" height="617" frameX="-26" frameY="0" frameWidth="449" frameHeight="617"/>
+	<SubTexture name="bf bon idle0010" x="4174" y="2354" width="397" height="617" frameX="-26" frameY="0" frameWidth="449" frameHeight="617"/>
+	<SubTexture name="bf bon idle0011" x="4571" y="2354" width="397" height="617" frameX="-26" frameY="0" frameWidth="449" frameHeight="617"/>
+	<SubTexture name="bf bon idle0012" x="4968" y="2354" width="397" height="617" frameX="-26" frameY="0" frameWidth="449" frameHeight="617"/>
+	<SubTexture name="bf bon idle0013" x="5365" y="2354" width="397" height="617" frameX="-26" frameY="0" frameWidth="449" frameHeight="617"/>
+	<SubTexture name="bf bon left0000" x="5762" y="2354" width="417" height="617"/>
+	<SubTexture name="bf bon left0001" x="6179" y="2354" width="417" height="617"/>
+	<SubTexture name="bf bon left0002" x="6596" y="2354" width="396" height="617" frameX="-17" frameY="0" frameWidth="417" frameHeight="617"/>
+	<SubTexture name="bf bon left0003" x="6992" y="2354" width="396" height="617" frameX="-17" frameY="0" frameWidth="417" frameHeight="617"/>
+	<SubTexture name="bf bon left0004" x="7388" y="2354" width="396" height="617" frameX="-17" frameY="0" frameWidth="417" frameHeight="617"/>
+	<SubTexture name="bf bon left0005" x="7784" y="2354" width="396" height="617" frameX="-17" frameY="0" frameWidth="417" frameHeight="617"/>
+	<SubTexture name="bf bon left0006" x="0" y="2971" width="396" height="617" frameX="-17" frameY="0" frameWidth="417" frameHeight="617"/>
+	<SubTexture name="bf bon left0007" x="396" y="2971" width="396" height="617" frameX="-17" frameY="0" frameWidth="417" frameHeight="617"/>
+	<SubTexture name="bf bon left0008" x="792" y="2971" width="396" height="617" frameX="-17" frameY="0" frameWidth="417" frameHeight="617"/>
+	<SubTexture name="bf bon left0009" x="1188" y="2971" width="396" height="617" frameX="-17" frameY="0" frameWidth="417" frameHeight="617"/>
+	<SubTexture name="bf bon left0010" x="1584" y="2971" width="396" height="617" frameX="-17" frameY="0" frameWidth="417" frameHeight="617"/>
+	<SubTexture name="bf bon left0011" x="1980" y="2971" width="396" height="617" frameX="-17" frameY="0" frameWidth="417" frameHeight="617"/>
+	<SubTexture name="bf bon left0012" x="2376" y="2971" width="396" height="617" frameX="-17" frameY="0" frameWidth="417" frameHeight="617"/>
+	<SubTexture name="bf bon left0013" x="2772" y="2971" width="396" height="617" frameX="-17" frameY="0" frameWidth="417" frameHeight="617"/>
+	<SubTexture name="bf bon left miss0000" x="3168" y="2971" width="417" height="617"/>
+	<SubTexture name="bf bon left miss0001" x="3585" y="2971" width="417" height="617"/>
+	<SubTexture name="bf bon left miss0002" x="4002" y="2971" width="396" height="617" frameX="-17" frameY="0" frameWidth="417" frameHeight="617"/>
+	<SubTexture name="bf bon left miss0003" x="4398" y="2971" width="396" height="617" frameX="-17" frameY="0" frameWidth="417" frameHeight="617"/>
+	<SubTexture name="bf bon left miss0004" x="4794" y="2971" width="396" height="617" frameX="-17" frameY="0" frameWidth="417" frameHeight="617"/>
+	<SubTexture name="bf bon left miss0005" x="5190" y="2971" width="396" height="617" frameX="-17" frameY="0" frameWidth="417" frameHeight="617"/>
+	<SubTexture name="bf bon left miss0006" x="5586" y="2971" width="396" height="617" frameX="-17" frameY="0" frameWidth="417" frameHeight="617"/>
+	<SubTexture name="bf bon left miss0007" x="5982" y="2971" width="396" height="617" frameX="-17" frameY="0" frameWidth="417" frameHeight="617"/>
+	<SubTexture name="bf bon left miss0008" x="6378" y="2971" width="396" height="617" frameX="-17" frameY="0" frameWidth="417" frameHeight="617"/>
+	<SubTexture name="bf bon left miss0009" x="6774" y="2971" width="396" height="617" frameX="-17" frameY="0" frameWidth="417" frameHeight="617"/>
+	<SubTexture name="bf bon left miss0010" x="7170" y="2971" width="396" height="617" frameX="-17" frameY="0" frameWidth="417" frameHeight="617"/>
+	<SubTexture name="bf bon left miss0011" x="7566" y="2971" width="396" height="617" frameX="-17" frameY="0" frameWidth="417" frameHeight="617"/>
+	<SubTexture name="bf bon left miss0012" x="0" y="3588" width="396" height="617" frameX="-17" frameY="0" frameWidth="417" frameHeight="617"/>
+	<SubTexture name="bf bon left miss0013" x="396" y="3588" width="396" height="617" frameX="-17" frameY="0" frameWidth="417" frameHeight="617"/>
+	<SubTexture name="bf bon right0000" x="792" y="3588" width="397" height="617" frameX="-11" frameY="0" frameWidth="408" frameHeight="617"/>
+	<SubTexture name="bf bon right0001" x="1189" y="3588" width="397" height="617" frameX="-11" frameY="0" frameWidth="408" frameHeight="617"/>
+	<SubTexture name="bf bon right0002" x="1586" y="3588" width="396" height="617" frameX="0" frameY="0" frameWidth="408" frameHeight="617"/>
+	<SubTexture name="bf bon right0003" x="1982" y="3588" width="396" height="617" frameX="0" frameY="0" frameWidth="408" frameHeight="617"/>
+	<SubTexture name="bf bon right0004" x="2378" y="3588" width="396" height="617" frameX="0" frameY="0" frameWidth="408" frameHeight="617"/>
+	<SubTexture name="bf bon right0005" x="2774" y="3588" width="396" height="617" frameX="0" frameY="0" frameWidth="408" frameHeight="617"/>
+	<SubTexture name="bf bon right0006" x="3170" y="3588" width="396" height="617" frameX="0" frameY="0" frameWidth="408" frameHeight="617"/>
+	<SubTexture name="bf bon right0007" x="3566" y="3588" width="396" height="617" frameX="0" frameY="0" frameWidth="408" frameHeight="617"/>
+	<SubTexture name="bf bon right0008" x="3962" y="3588" width="396" height="617" frameX="0" frameY="0" frameWidth="408" frameHeight="617"/>
+	<SubTexture name="bf bon right0009" x="4358" y="3588" width="396" height="617" frameX="0" frameY="0" frameWidth="408" frameHeight="617"/>
+	<SubTexture name="bf bon right0010" x="4754" y="3588" width="396" height="617" frameX="0" frameY="0" frameWidth="408" frameHeight="617"/>
+	<SubTexture name="bf bon right0011" x="5150" y="3588" width="396" height="617" frameX="0" frameY="0" frameWidth="408" frameHeight="617"/>
+	<SubTexture name="bf bon right0012" x="5546" y="3588" width="396" height="617" frameX="0" frameY="0" frameWidth="408" frameHeight="617"/>
+	<SubTexture name="bf bon right0013" x="5942" y="3588" width="396" height="617" frameX="0" frameY="0" frameWidth="408" frameHeight="617"/>
+	<SubTexture name="bf bon right miss0000" x="6338" y="3588" width="397" height="617" frameX="-11" frameY="0" frameWidth="408" frameHeight="617"/>
+	<SubTexture name="bf bon right miss0001" x="6735" y="3588" width="397" height="617" frameX="-11" frameY="0" frameWidth="408" frameHeight="617"/>
+	<SubTexture name="bf bon right miss0002" x="7132" y="3588" width="396" height="617" frameX="0" frameY="0" frameWidth="408" frameHeight="617"/>
+	<SubTexture name="bf bon right miss0003" x="7528" y="3588" width="396" height="617" frameX="0" frameY="0" frameWidth="408" frameHeight="617"/>
+	<SubTexture name="bf bon right miss0004" x="0" y="4205" width="396" height="617" frameX="0" frameY="0" frameWidth="408" frameHeight="617"/>
+	<SubTexture name="bf bon right miss0005" x="396" y="4205" width="396" height="617" frameX="0" frameY="0" frameWidth="408" frameHeight="617"/>
+	<SubTexture name="bf bon right miss0006" x="792" y="4205" width="396" height="617" frameX="0" frameY="0" frameWidth="408" frameHeight="617"/>
+	<SubTexture name="bf bon right miss0007" x="1188" y="4205" width="396" height="617" frameX="0" frameY="0" frameWidth="408" frameHeight="617"/>
+	<SubTexture name="bf bon right miss0008" x="1584" y="4205" width="396" height="617" frameX="0" frameY="0" frameWidth="408" frameHeight="617"/>
+	<SubTexture name="bf bon right miss0009" x="1980" y="4205" width="396" height="617" frameX="0" frameY="0" frameWidth="408" frameHeight="617"/>
+	<SubTexture name="bf bon right miss0010" x="2376" y="4205" width="396" height="617" frameX="0" frameY="0" frameWidth="408" frameHeight="617"/>
+	<SubTexture name="bf bon right miss0011" x="2772" y="4205" width="396" height="617" frameX="0" frameY="0" frameWidth="408" frameHeight="617"/>
+	<SubTexture name="bf bon right miss0012" x="3168" y="4205" width="396" height="617" frameX="0" frameY="0" frameWidth="408" frameHeight="617"/>
+	<SubTexture name="bf bon right miss0013" x="3564" y="4205" width="396" height="617" frameX="0" frameY="0" frameWidth="408" frameHeight="617"/>
+	<SubTexture name="bf bon up0000" x="3960" y="4205" width="396" height="656"/>
+	<SubTexture name="bf bon up0001" x="4356" y="4205" width="396" height="656"/>
+	<SubTexture name="bf bon up0002" x="4752" y="4205" width="396" height="648" frameX="0" frameY="-8" frameWidth="396" frameHeight="656"/>
+	<SubTexture name="bf bon up0003" x="5148" y="4205" width="396" height="648" frameX="0" frameY="-8" frameWidth="396" frameHeight="656"/>
+	<SubTexture name="bf bon up0004" x="5544" y="4205" width="396" height="648" frameX="0" frameY="-8" frameWidth="396" frameHeight="656"/>
+	<SubTexture name="bf bon up0005" x="5940" y="4205" width="396" height="648" frameX="0" frameY="-8" frameWidth="396" frameHeight="656"/>
+	<SubTexture name="bf bon up0006" x="6336" y="4205" width="396" height="648" frameX="0" frameY="-8" frameWidth="396" frameHeight="656"/>
+	<SubTexture name="bf bon up0007" x="6732" y="4205" width="396" height="648" frameX="0" frameY="-8" frameWidth="396" frameHeight="656"/>
+	<SubTexture name="bf bon up0008" x="7128" y="4205" width="396" height="648" frameX="0" frameY="-8" frameWidth="396" frameHeight="656"/>
+	<SubTexture name="bf bon up0009" x="7524" y="4205" width="396" height="648" frameX="0" frameY="-8" frameWidth="396" frameHeight="656"/>
+	<SubTexture name="bf bon up0010" x="0" y="4861" width="396" height="648" frameX="0" frameY="-8" frameWidth="396" frameHeight="656"/>
+	<SubTexture name="bf bon up0011" x="396" y="4861" width="396" height="648" frameX="0" frameY="-8" frameWidth="396" frameHeight="656"/>
+	<SubTexture name="bf bon up0012" x="792" y="4861" width="396" height="648" frameX="0" frameY="-8" frameWidth="396" frameHeight="656"/>
+	<SubTexture name="bf bon up0013" x="1188" y="4861" width="396" height="648" frameX="0" frameY="-8" frameWidth="396" frameHeight="656"/>
+	<SubTexture name="bf bon up miss0000" x="1584" y="4861" width="396" height="656"/>
+	<SubTexture name="bf bon up miss0001" x="1980" y="4861" width="396" height="656"/>
+	<SubTexture name="bf bon up miss0002" x="2376" y="4861" width="396" height="648" frameX="0" frameY="-8" frameWidth="396" frameHeight="656"/>
+	<SubTexture name="bf bon up miss0003" x="2772" y="4861" width="396" height="648" frameX="0" frameY="-8" frameWidth="396" frameHeight="656"/>
+	<SubTexture name="bf bon up miss0004" x="3168" y="4861" width="396" height="648" frameX="0" frameY="-8" frameWidth="396" frameHeight="656"/>
+	<SubTexture name="bf bon up miss0005" x="3564" y="4861" width="396" height="648" frameX="0" frameY="-8" frameWidth="396" frameHeight="656"/>
+	<SubTexture name="bf bon up miss0006" x="3960" y="4861" width="396" height="648" frameX="0" frameY="-8" frameWidth="396" frameHeight="656"/>
+	<SubTexture name="bf bon up miss0007" x="4356" y="4861" width="396" height="648" frameX="0" frameY="-8" frameWidth="396" frameHeight="656"/>
+	<SubTexture name="bf bon up miss0008" x="4752" y="4861" width="396" height="648" frameX="0" frameY="-8" frameWidth="396" frameHeight="656"/>
+	<SubTexture name="bf bon up miss0009" x="5148" y="4861" width="396" height="648" frameX="0" frameY="-8" frameWidth="396" frameHeight="656"/>
+	<SubTexture name="bf bon up miss0010" x="5544" y="4861" width="396" height="648" frameX="0" frameY="-8" frameWidth="396" frameHeight="656"/>
+	<SubTexture name="bf bon up miss0011" x="5940" y="4861" width="396" height="648" frameX="0" frameY="-8" frameWidth="396" frameHeight="656"/>
+	<SubTexture name="bf bon up miss0012" x="6336" y="4861" width="396" height="648" frameX="0" frameY="-8" frameWidth="396" frameHeight="656"/>
+	<SubTexture name="bf bon up miss0013" x="6732" y="4861" width="396" height="648" frameX="0" frameY="-8" frameWidth="396" frameHeight="656"/>
+</TextureAtlas>
